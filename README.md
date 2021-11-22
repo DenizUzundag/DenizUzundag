@@ -1,6 +1,6 @@
 ### Hi there, I' Deniz Uzundağ 👋
 
-<h1> Manisa Celal Bayar University - Software Engineering</h1>
+<h4> Manisa Celal Bayar University - Software Engineering</h4>
 
 
 
@@ -37,15 +37,11 @@
 
 
        
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenizUzundag&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)]
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenizUzundag&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
      
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenizUzundag&show_icons=true&theme=tokyonight)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizUzundag&theme=tokyonight&layout=compact)](https://github.com/DenizUzundag/github-readme-stats)
-
-</div>
-
-
 
 
 
